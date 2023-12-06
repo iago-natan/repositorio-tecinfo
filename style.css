@@ -1,0 +1,40 @@
+body{
+background: transparent;
+color: black;
+font-size: 100px;
+align-items: center;
+flex-direction:row;
+padding: 20px 10px 30px 400px;
+width:50%;
+margin:auto;
+
+}
+h1{
+ font-family: sans-serif;
+
+
+}
+
+
+.mensagem{
+background-color: blue;
+background: 100%;
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+li{
+font-family: monospace;
+
+}           
